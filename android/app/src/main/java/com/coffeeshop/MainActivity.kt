@@ -1,4 +1,4 @@
-package com.asmreactnative
+package com.coffeeshop
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
